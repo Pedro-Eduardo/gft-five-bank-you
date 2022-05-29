@@ -29,4 +29,6 @@ Deposito e Extrato.
 * Compile o arquivo digitando javac main.java
 * Execute digitando java main
 
-No Gif abaixo mostra o passo a passo. 
+No Gif abaixo mostra o passo a passo. <br><br>
+
+![cmd-java](https://user-images.githubusercontent.com/23389829/170880552-5604271d-084f-4082-bea7-db80778637ab.gif)
