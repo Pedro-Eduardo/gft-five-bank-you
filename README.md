@@ -19,7 +19,7 @@ Deposito,Extrato, Saldo  e Pix.
 
 #### Requisitos para Funcionamento :
 
-* Instale o Java Development Kit(JDK)
+* Instale o Java Development Kit(JDK) <br>
 Obs: pra instalar pode seguir esse <a href ="https://github.com/cami-la/curso-dio-dominando-ides-java"> Clique aqui</a> passo à passo de acordo com seu sistema operacional.
 
 
