@@ -6,7 +6,7 @@
 
 #### Descrição :
 Projeto do  bootcampo GFT START 5 que tem com intuito reforçar os conhecimentos de POO em java. Esse projeto simula um app de banco com as seguintes funções: Saque
-Deposito e Extrato.
+Deposito,Extrato, Saldo  e Pix.
 
 #### Tecnologia e ferramentas
 
@@ -19,7 +19,8 @@ Deposito e Extrato.
 
 #### Requisitos para Funcionamento :
 
-* Instale o Java Development Kit (JDK)
+* Instale o Java Development Kit(JDK)
+Obs: pra instalar pode seguir esse <a href ="https://github.com/cami-la/curso-dio-dominando-ides-java"> Clique aqui</a> passo à passo de acordo com seu sistema operacional.
 
 
 #### Como Executar :
